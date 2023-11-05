@@ -3,6 +3,3 @@ deeplake[enterprise]
 openai
 tiktoken
 python-dotenv
-# unstructured
-# lancedb
-# pandas
