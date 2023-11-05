@@ -1,5 +1,5 @@
 langchain
 deeplake[enterprise]
-# openai
+openai
 tiktoken
 python-dotenv

@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+python-dotenv
+unstructured
+lancedb
+pandas
