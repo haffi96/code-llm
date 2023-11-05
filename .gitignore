@@ -1,3 +1,5 @@
 eng-feed
 .llm-venv
 .env
+lancedb
+tmp
