@@ -3,3 +3,4 @@ eng-feed
 .env
 lancedb
 tmp
+.lance-llm
